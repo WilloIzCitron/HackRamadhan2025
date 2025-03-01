@@ -28,8 +28,8 @@ public class HackRamadhan extends Mod{
                 t.checkPref("Auto Khatam", false);
                 t.checkPref("Hack Amal", false);
                 t.checkPref("Anti Nafsu", false);
-                t.textPref("", "Jane Doe");
-                t.textPref("", "Washington DC");
+                t.areaTextPref("Nama", "Jane Doe");
+                t.areaTextPref("Nama Kota", "Washington DC");
                 t.pref(new ThisButtonSetting());
             });
         });

@@ -8,7 +8,7 @@ name: "cheatramadhan"
 author: "WilloIzCitron"
 
 #the fully qualified main class of the mod
-main: "willoizcitron.HackRamadhanCore"
+main: "cheatramadhan.HackRamadhan"
 
 #the mod description as seen in the mod dialog
 description: "Hack Ramadhan but in Mindustry (Joke Mod)."
@@ -21,3 +21,5 @@ minGameVersion: 145
 
 #this is a java mod
 java: true
+
+hidden: true
